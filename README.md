@@ -4,5 +4,6 @@
   <h1>Hi, I'm Frinz!</h1>
   <p>Passionately curious student and Linux developer.</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=serendipityfrinz&theme=catppuccin_mocha&show_icons=true" />
+  ![Frinz's Stats](https://github-readme-stats.vercel.app/api?username=serendipityfrinz&theme=catppuccin_mocha&show_icons=true)
+</div>
 </div>
